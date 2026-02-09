@@ -21,3 +21,13 @@
     </StackPanel>
     </StackPanel>
 </local:MyCard>
+ <local:MyCard Title="关于LittleSkin皮肤站" Margin="0,0,0,50" CanSwap="True" IsSwapped="False">
+	<StackPanel Margin="25,40,23,15">
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,10"
+                    Text="由于离线登录存在安全隐患，本服务器采用LittleSkin皮肤站外置登录，按照教程操作登录后即可进入服务器" />
+                    <local:MyButton Height="35" HorizontalAlignment="Left" Padding="20,0,20,0"
+                    Text="打开LittleSkin官方教程" EventType="打开网页" EventData="https://manual.littlesk.in/newbee/" />
+                <local:MyHint Margin="0,8,0,2" Theme="Red"
+                    Text="进入使用LittleSkin皮肤站进行外置登录的服务器时必须使用LittleSkin账号登录&#xA;即使你有正版账号也是如此" />
+	</StackPanel>
+</local:MyCard>
