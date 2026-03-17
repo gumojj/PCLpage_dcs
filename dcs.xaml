@@ -5,10 +5,10 @@
                 Title="启动游戏" Info="确保你安装了DreamCore整合包" EventType="启动游戏" Type="Clickable" EventData="DreamCore"/>
         <local:MyListItem Margin="5,5,5,8"
                 Logo="pack://application:,,,/images/Blocks/GoldBlock.png"
-                Title="启动游戏并自动进入服务器" Info="祝你游戏愉快:)" EventType="启动游戏" Type="Clickable" EventData="DreamCore|121.25.238.172:38361"/>
+                Title="启动游戏并自动进入服务器" Info="祝你游戏愉快:)" EventType="启动游戏" Type="Clickable" EventData="DreamCore|110.253.176.34:13712"/>
         <local:MyListItem Margin="5,5,5,8"
                 Logo="pack://application:,,,/images/Blocks/CommandBlock.png"
-                Title="最新版整合包下载" Info="需要先安装这个整合包才能点击上面的“启动游戏”" EventType="打开网页" Type="Clickable" EventData="http://121.25.238.172:38363/@s/Lw3ZVNKR"/>
+                Title="最新版整合包下载" Info="需要先安装这个整合包才能点击上面的“启动游戏”" EventType="打开网页" Type="Clickable" EventData="http://110.253.176.34:13727/@s/Lw3ZVNKR"/>
         <local:MyListItem Margin="5,5,5,8"
                         Logo="pack://application:,,,/images/Blocks/RedstoneLampOn.png"
                         Title="加入服务器QQ群" Info="真的有人会先看到这行字然后才加群吗?" EventType="打开网页" Type="Clickable" EventData="https://qm.qq.com/q/q3DyisqVG0"/>
